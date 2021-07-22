@@ -1,5 +1,13 @@
 ### Hi everyone 👋
 
+I am currently working on the project "Ants".
+
+Demo:
+
+![Demo-1](https://github.com/VladimirShat/Ants/blob/main/Screenshots%20and%20Art/Demo-1.gif)
+
+I also sometimes make a color distribution shader:
+![ColorControl-Demo](https://github.com/VladimirShat/Shaders/blob/main/Screenshots%20and%20Art/ColorControl-Demo.gif)
 <!--
 **VladimirShat/VladimirShat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
