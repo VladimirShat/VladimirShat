@@ -2,12 +2,12 @@
 
 I am currently working on the project "[Ants](https://github.com/VladimirShat/Ants)". Demo:
 
-![Demo-1](https://github.com/VladimirShat/Ants/blob/main/Screenshots%20and%20Art/Demo-1.gif)
+<img src="https://github.com/VladimirShat/Ants/blob/main/Screenshots%20and%20Art/Demo-1.gif" width="800" />
 
 I also sometimes make a [Color Distribution shader](https://github.com/VladimirShat/Shaders/tree/main/Assets/Color%20Distribution
 ):
 
-![ColorControl-Demo](https://github.com/VladimirShat/Shaders/blob/main/Screenshots%20and%20Art/ColorControl-Demo.gif)
+<img src="https://github.com/VladimirShat/Shaders/blob/main/Screenshots%20and%20Art/ColorControl-Demo.gif" width="800" />
 <!--
 **VladimirShat/VladimirShat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
