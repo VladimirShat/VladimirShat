@@ -10,7 +10,7 @@ I also sometimes make a Color Distribution shader:
 
 <img src="https://github.com/VladimirShat/Shaders/blob/main/Screenshots%20and%20Art/ColorControl-Demo.gif" width="800" />
 
-### [Screen Particles](https://github.com/VladimirShat/ScreenParticles)
+### [Screen Particles](https://github.com/VladimirShat/Screen-Particles)
 
 **"Black Hole"**⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**"Up Right"**:
 
