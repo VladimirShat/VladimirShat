@@ -17,8 +17,8 @@ I also sometimes make a [Color Distribution shader](https://github.com/VladimirS
 
 left - **"Black Hole"**, right - **"Up Right"**:
 
-<div style="text-align:center"><img src="https://github.com/VladimirShat/Screen-Particles/blob/main/Gifs/BlackHole.gif" width="475" />
-<img src="https://github.com/VladimirShat/Screen-Particles/blob/main/Gifs/UpRight.gif" width="475" /></div>
+<div style="text-align:center"><img src="https://github.com/VladimirShat/Screen-Particles/blob/main/Gifs/BlackHole.gif" width="450" />
+<img src="https://github.com/VladimirShat/Screen-Particles/blob/main/Gifs/UpRight.gif" width="450" /></div>
 
 <!--
 **VladimirShat/VladimirShat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
