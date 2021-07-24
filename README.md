@@ -1,19 +1,16 @@
 ### Hi everyone 👋
 
-### Ants
-I am currently working on the project "[Ants](https://github.com/VladimirShat/Ants)". Demo:
+### [Ants](https://github.com/VladimirShat/Ants)
+I am currently working on the project "Ants". Demo:
 
 <img src="https://github.com/VladimirShat/Ants/blob/main/Screenshots%20and%20Art/Demo-1.gif" width="800" />
 
-### Color Distribution
-I also sometimes make a [Color Distribution shader](https://github.com/VladimirShat/Shaders/tree/main/Assets/Color%20Distribution
-):
+### [Color Distribution](https://github.com/VladimirShat/Shaders/tree/main/Assets/Color%20Distribution)
+I also sometimes make a Color Distribution shader:
 
 <img src="https://github.com/VladimirShat/Shaders/blob/main/Screenshots%20and%20Art/ColorControl-Demo.gif" width="800" />
 
-### Screen Particles
-
-В [данном проекте](https://github.com/VladimirShat/ScreenParticles) представленно конвертирование изображения с камеры в изображение из каких-либо частиц и последующие манипуляции с этими частицами.
+### [Screen Particles](https://github.com/VladimirShat/ScreenParticles)
 
 **"Black Hole"**⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**"Up Right"**:
 
