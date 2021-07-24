@@ -15,7 +15,7 @@ I also sometimes make a [Color Distribution shader](https://github.com/VladimirS
 
 В [данном проекте](https://github.com/VladimirShat/ScreenParticles) представленно конвертирование изображения с камеры в изображение из каких-либо частиц и последующие манипуляции с этими частицами.
 
-**"Black Hole"**⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**"Up Right"**:
+**"Black Hole"**⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀**"Up Right"**:
 
 <div style="text-align:center"><img src="https://github.com/VladimirShat/Screen-Particles/blob/main/Gifs/BlackHole.gif" width="425" />
 <img src="https://github.com/VladimirShat/Screen-Particles/blob/main/Gifs/UpRight.gif" width="425" /></div>
