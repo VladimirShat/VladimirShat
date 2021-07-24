@@ -1,13 +1,25 @@
 ### Hi everyone 👋
 
+### Ants
 I am currently working on the project "[Ants](https://github.com/VladimirShat/Ants)". Demo:
 
-<img src="https://github.com/VladimirShat/Ants/blob/main/Screenshots%20and%20Art/Demo-1.gif" width="800" />
+<img src="https://github.com/VladimirShat/Ants/blob/main/Screenshots%20and%20Art/Demo-1.gif" width="600" />
 
+### Color Distribution
 I also sometimes make a [Color Distribution shader](https://github.com/VladimirShat/Shaders/tree/main/Assets/Color%20Distribution
 ):
 
-<img src="https://github.com/VladimirShat/Shaders/blob/main/Screenshots%20and%20Art/ColorControl-Demo.gif" width="800" />
+<img src="https://github.com/VladimirShat/Shaders/blob/main/Screenshots%20and%20Art/ColorControl-Demo.gif" width="600" />
+
+### Screen Particles
+
+В данном проекте представленно конвертирование изображения с камеры в изображение из каких-либо частиц и последующие манипуляции с этими частицами.
+
+left - **"Black Hole"**, right - **"Up Right"**:
+
+<div style="text-align:center"><img src="https://github.com/VladimirShat/Screen-Particles/blob/main/Gifs/BlackHole.gif" width="475" />
+<img src="https://github.com/VladimirShat/Screen-Particles/blob/main/Gifs/UpRight.gif" width="475" /></div>
+
 <!--
 **VladimirShat/VladimirShat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
