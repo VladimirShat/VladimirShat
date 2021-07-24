@@ -1,12 +1,12 @@
 ### Hi everyone 👋
 
 ### [Ants](https://github.com/VladimirShat/Ants)
-I am currently working on the project "Ants". Demo:
+I am currently working on the project **"Ants"**. Demo:
 
 <img src="https://github.com/VladimirShat/Ants/blob/main/Screenshots%20and%20Art/Demo-1.gif" width="800" />
 
 ### [Color Distribution](https://github.com/VladimirShat/Shaders/tree/main/Assets/Color%20Distribution)
-I also sometimes make a Color Distribution shader:
+I also sometimes make a **Color Distribution shader**:
 
 <img src="https://github.com/VladimirShat/Shaders/blob/main/Screenshots%20and%20Art/ColorControl-Demo.gif" width="800" />
 
